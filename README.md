@@ -5,6 +5,7 @@ Customer Needs ?
   set and track budgets seamlessly.
   3) ustomer Journey Mapping: Outline the steps customers take from
   initiating a payment query to resolving it.
+
 Who is our customer ?
   1) Individual Amazon users who shop frequently and need help managing
   their payments.
