@@ -36,3 +36,11 @@ This project was created using the following technologies.
 
 #### Database
 MongoDB (MongoDB Atlas)
+
+####Dependencies:
+ - react-chat-widget
+ - eventsource
+ - nlp.js
+ - express.js
+ - axios
+ - sse-pusher
