@@ -1,4 +1,4 @@
-![SplitApp](https://drive.google.com/file/d/1JGFUCW8wBgCVenIZxXzdFSno_kEYwMeZ/view?usp=sharing)
+![SplitApp](https://drive.google.com/file/d/1JGFUCW8wBgCVenIZxXzdFSno_kEYwMeZ/view?usp=drive_link)
 ## Customer Needs ?
   1) Payment Management: Customers need an efficient way to handle payment
   queries, Transactions and Analyze feedback to identify payment issues.
